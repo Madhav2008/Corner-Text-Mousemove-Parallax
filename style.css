@@ -42,5 +42,5 @@ section .textBox {
 
 .skew1 {
     position: relative;
-    top: 50px;
+    top: 50px;transform: ;
 }
