@@ -40,4 +40,6 @@ section .textBox {
     opacity: 0.6;
 }
 
-.skew1 {position: relative;}
+.skew1 {
+    position: relative;
+}
