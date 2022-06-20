@@ -31,5 +31,6 @@ section .textBox {
     text-align: center;
     font-size: 12em;
     line-height: 1em;
-    color: #0488f5;cursor: pointer;
+    color: #0488f5;
+    cursor: pointer;
 }
