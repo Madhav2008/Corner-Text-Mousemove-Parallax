@@ -37,5 +37,5 @@ section .textBox {
 }
 
 .skew1 h2 {
-    color: rgba(red, green, blue, alpha);
+    color: rgba(red, green, blue, 0.5);
 }
