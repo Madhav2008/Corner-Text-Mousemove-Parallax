@@ -25,7 +25,7 @@ section .textBox {
     clip-path: polygon(0 0, 50% 0, 50% 100%, 0% 100%);
 }
 
-.skew1 h2,
+.skew1 h2,.skew1 h2 
 {
 position: absolute;
 width: 100%;
