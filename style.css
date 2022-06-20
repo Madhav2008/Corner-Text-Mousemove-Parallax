@@ -15,4 +15,6 @@ section {
     overflow: hidden;
 }
 
-section .textBox {position: absolute;}
+section .textBox {
+    position: absolute;
+}
