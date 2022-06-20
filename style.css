@@ -25,12 +25,13 @@ section .textBox {
     clip-path: polygon(0 0, 50% 0, 50% 100%, 0% 100%);
 }
 
-.skew1 h2 ,{
-    position: absolute;
-    width: 100%;
-    text-align: center;
-    font-size: 12em;
-    line-height: 1em;
-    color: #0488f5;
-    cursor: pointer;
+.skew1 h2,
+{
+position: absolute;
+width: 100%;
+text-align: center;
+font-size: 12em;
+line-height: 1em;
+color: #0488f5;
+cursor: pointer;
 }
