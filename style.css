@@ -45,3 +45,8 @@ section .textBox {
     top: 50px;
     transform: skewY(20deg);
 }
+.skew1 {
+    position: relative;
+    top: 50px;
+    transform: skewY(20deg);
+}
