@@ -36,6 +36,6 @@ section .textBox {
     cursor: pointer;
 }
 
-.skew1 h2 {
+.skew1 h2 {opacity: ;
     color: rgba(red, green, blue, 0.5);
 }
