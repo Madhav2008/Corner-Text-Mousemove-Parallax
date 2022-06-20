@@ -29,5 +29,5 @@ section .textBox {
     position: absolute;
     width: 100%;
     text-align: center;
-    font-size: 12em;
+    font-size: 12em;line-height: ;
 }
