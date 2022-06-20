@@ -26,5 +26,6 @@ section .textBox {
 }
 
 .skew1 h2 {
-    position: absolute;width: 100%;
+    position: absolute;
+    width: 100%;
 }
