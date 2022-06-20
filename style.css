@@ -36,4 +36,6 @@ section .textBox {
     cursor: pointer;
 }
 
-.skew1 h2 {color: ;}
+.skew1 h2 {
+    color: ;
+}
